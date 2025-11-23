@@ -1,0 +1,5 @@
+{
+  "name": "Video to Handout Wizard",
+  "description": "Upload a video, capture key frames, and use Gemini to automatically generate a step-by-step PDF-style handout with explanations.",
+  "requestFramePermissions": []
+}
